@@ -9,4 +9,5 @@ pip install -r requirements.txt
 
 
 
-## Run dev
+- Run dev: `bin/run_dev`
+- Run prod: `bin/start`
