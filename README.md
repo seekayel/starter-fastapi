@@ -11,3 +11,4 @@ pip install -r requirements.txt
 
 - Run dev: `bin/run_dev`
 - Run prod: `bin/start`
+
